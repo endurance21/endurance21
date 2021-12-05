@@ -14,6 +14,8 @@ Here are some of my findings and approaches :)
   - status : already built ,up and available  at npm. 
   - progress : recored a cap of 245 downloads per week on npm
   - use-cases :  to brind interactive animation on react websites
+  - read-my-blog : https://medium.com/@divyanshuraj_39877/how-i-made-firefly-react-cce580667fe
+
 ```
 
 ```
